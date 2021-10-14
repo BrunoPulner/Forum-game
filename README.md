@@ -1,3 +1,3 @@
-# trilha-aprendizado
+# Forum game
 
-## GitHub Pages: https://brunopulner.github.io/Trilha_de_aprendizado/
+## GitHub Pages: https://brunopulner.github.io/Forum-game/
